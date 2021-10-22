@@ -1,0 +1,5 @@
+So far, the output of our programs has been displayed on the screen and 
+eventually lost. In most real-life applications, we want the output to 
+be preserved in files in permanent storage that will be available for 
+later use. Word processors and spreadsheets are two types of programs 
+whose output must be preserved and accessed at a later time. 

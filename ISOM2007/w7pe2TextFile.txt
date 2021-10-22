@@ -1,0 +1,38 @@
+First Semester 2020/2021
+ISOM2007 ¡V Programming for Business Analytics (3 credits)
+Instructor
+Name	:	Philip S. Pun
+Office	:	E22-3070 FBA
+Phone & E-mail	:	ƒv 8822-4760 / ƒx pstpun@um.edu.mo
+Office Hours
+Monday 13:00 ¡V 14:15 & Tuesday 15:00 ~ 15:45. Both online via Zoom and in-person at my office. 
+The other times by appointment subjected to my availability and work schedule.
+Class Meetings
+Section 001 ¡V Monday and Thursday; 14:30 ~ 15:45; E4-1051 / E6-2095
+Section 002 ¡V Monday and Thursday; 11:30 ~ 12:45; E4-1051 / E6-2095
+Class Moodle Site
+For all students in this course you have access to the course Moodle site. This is where I will 
+post important announcements, the syllabus, lecture outlines, assignments, forms, and other supplementary 
+reading materials. You should check this site at least once before each lecture. T
+he Moodle URL is: https://ummoodle.umac.mo/course/view.php?id=88410.
+Course Description
+This course introduces the foundation of programming for data analysis with Python. 
+This course is meant for students to be acquainted with key programming and design 
+techniques as well as various libraries of Python, allowing them to understand, 
+analyze, and solve data analytical problems through programming. It involves both 
+theoretical and practical components. Upon the completion of this course, students 
+are expected to have a solid foundation on the basic concepts of programming and 
+technical skills required for scientific computing problems
+Course Learning Outcomes (LO)
+Upon successful completion of this course, the student will be able to:
+use standard programming data types, control structures and data structure.
+write well-structured modular programs in Python
+solve problems using well-documented programs in the Python language.
+demonstrate proficiency with the Python development environment.
+perform analysis and visualization on business data.
+Required Textbook
+Python for Everybody: Exploring Data in Python 3; Severance C.R.; 2016; 
+e-book available online from amazon.com.
+References
+Python for Programmers: With Introductory AI Case Studies; Deitel P. & Deitel H.; Pearson Education, 2019.
+An Introduction to Programming Using Python; Schneider D.I.; Pearson Education, 2016
